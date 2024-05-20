@@ -41,7 +41,7 @@ const ProjectCard = () => {
 
         </div>
         <div className='flex flex-wrap gap-2 items-center'>
-          {[1, 1, 1, 1].map((item) => <Badge key={item} variant="outline">{item}</Badge>)}
+          {[1, 1, 1, 1].map((item) => <Badge key={item} variant="outline">{"frontend"}</Badge>)}
         </div>
 
       </div>
