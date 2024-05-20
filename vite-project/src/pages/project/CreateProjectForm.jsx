@@ -1,10 +1,7 @@
-import React from 'react'
 
 const CreateProjectForm = () => {
   return (
-    <div>
-      
-    </div>
+    <div>CreateProjectForm</div>
   )
 }
 
